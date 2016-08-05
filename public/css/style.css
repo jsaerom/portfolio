@@ -64,7 +64,7 @@ a > img:hover{
 }
 .jumbotron{
   margin-top: 15px;
-  background: url("../img/joanna10.JPG");
+  background: url("../img/joanna10.jpg");
   background-size: cover;
   background-position: center bottom;
   opacity: 0.95;
