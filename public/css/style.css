@@ -63,9 +63,20 @@ a > img:hover{
   opacity: 0.7;
 }
 .jumbotron{
-  margin-top: 50px;
+  margin-top: 15px;
   background: url("../img/joanna10.JPG");
   background-size: cover;
   background-position: center bottom;
   opacity: 0.95;
+}
+.soc-media{
+  font-size: 3em;
+  letter-spacing: 10px;
+  text-align: center;
+}
+a:hover{
+  color: #cc0000;
+}
+.nav a:hover{
+  color: black;
 }
