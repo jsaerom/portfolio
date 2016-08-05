@@ -15,6 +15,24 @@ header h1{
   font-size: 6em;
   text-align: center;
 }
+h2{
+  font-family: 'Sarina', cursive;
+  font-size: 1.5em;
+}
 .jumbotron{
   margin-top: 50px;
+}
+.jumbotron h1{
+  font-size: 3em;
+  font-weight: bolder;
+}
+ol{
+  margin-top: 50px;
+}
+.about-me{
+  margin-top: 50px;
+}
+.project-list{
+  font-size: 1.5em;
+  line-height: 40px;
 }
