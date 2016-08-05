@@ -31,17 +31,22 @@ h2{
   font-family: 'Sarina', cursive;
   font-size: 1.5em;
 }
-.lrg-txt{
-  font-size: 1.15em;
-}
-.jumbotron{
-  margin-top: 50px;
-  background-image: url(Users/Guest/desktop/portfolio/public/img/joanna3.JPG);
-  background-size: cover;
-}
 .jumbotron h1{
   font-size: 3em;
   font-weight: bolder;
+  text-align: right;
+  font-family: 'Sarina', cursive;
+}
+.jumbotron p{
+  text-align: right;
+  margin-left: 50%;
+}
+.lrg-txt{
+  font-size: 1.1em;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 45px;
+  border-radius: 10px;
+
 }
 ol{
   margin-top: 50px;
@@ -61,4 +66,11 @@ a {
 }
 a > img:hover{
   opacity: 0.7;
+}
+.jumbotron{
+  margin-top: 50px;
+  background: url("../img/joanna10.JPG");
+  background-size: cover;
+  background-position: center bottom;
+  opacity: 0.95;
 }
