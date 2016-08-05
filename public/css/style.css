@@ -8,3 +8,8 @@
 .carousel-indicators li{
   background-color: #SAMECOLOR;
 }
+
+header h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 6em;
+}
