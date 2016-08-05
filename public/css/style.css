@@ -8,19 +8,11 @@ body{
   margin-left: 0 auto;
   font-size: 1.13em;
 }
-.carousel-indicators{
-  bottom: 0;
-}
 .about-me-img{
   display:block;
   margin: auto;
+  margin-top: 5px;
   border-radius: 10px;
-}
-.carousel-indicators .active{
-  background-color: #COLOR;
-}
-.carousel-indicators li{
-  background-color: #SAMECOLOR;
 }
 header h1{
   font-family: 'Sarina', cursive;
@@ -35,18 +27,21 @@ h2{
   font-size: 3em;
   font-weight: bolder;
   text-align: right;
-  font-family: 'Sarina', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 .jumbotron p{
   text-align: right;
   margin-left: 50%;
 }
+.small-txt{
+  font-size: 0.75em;
+  font-style: normal;
+}
 .lrg-txt{
-  font-size: 1.1em;
+  font-size: 1em;
   background-color: rgba(0, 0, 0, 0.7);
-  padding: 45px;
+  padding: 35px;
   border-radius: 10px;
-
 }
 ol{
   margin-top: 50px;
