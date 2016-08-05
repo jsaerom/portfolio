@@ -18,9 +18,9 @@ Alternately
 If you have any questions or concerns, contact me at 123-456-7892
 
 ##Technologies Used
-HTML
-CSS
-Bootstrap
+*HTML
+*CSS
+*Bootstrap
 
 ##License
 Copyright (c) 2016 Joanna Anderson
