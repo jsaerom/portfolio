@@ -4,8 +4,17 @@ body{
   background-color: black;
   color: white;
 }
+.edit-margin{
+  margin-left: 0 auto;
+  font-size: 1.13em;
+}
 .carousel-indicators{
   bottom: 0;
+}
+.about-me-img{
+  display:block;
+  margin: auto;
+  border-radius: 10px;
 }
 .carousel-indicators .active{
   background-color: #COLOR;
@@ -22,17 +31,19 @@ h2{
   font-family: 'Sarina', cursive;
   font-size: 1.5em;
 }
+.lrg-txt{
+  font-size: 1.15em;
+}
 .jumbotron{
   margin-top: 50px;
+  background-image: url(Users/Guest/desktop/portfolio/public/img/joanna3.JPG);
+  background-size: cover;
 }
 .jumbotron h1{
   font-size: 3em;
   font-weight: bolder;
 }
 ol{
-  margin-top: 50px;
-}
-.about-me{
   margin-top: 50px;
 }
 .project-list{
