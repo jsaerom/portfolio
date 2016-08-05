@@ -36,3 +36,12 @@ ol{
   font-size: 1.5em;
   line-height: 40px;
 }
+strong{
+  font-style: italic;
+}
+a {
+  color: black;
+}
+.row h3{
+  text-align: center;
+}
