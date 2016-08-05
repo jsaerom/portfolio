@@ -1,15 +1,20 @@
+body{
+  margin: 0 auto;
+}
 .carousel-indicators{
   bottom: 0;
 }
 .carousel-indicators .active{
   background-color: #COLOR;
 }
-
 .carousel-indicators li{
   background-color: #SAMECOLOR;
 }
-
 header h1{
   font-family: 'Sarina', cursive;
   font-size: 6em;
+  text-align: center;
+}
+.jumbotron{
+  margin-top: 50px;
 }
